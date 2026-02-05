@@ -1,5 +1,4 @@
-
-public class main {
+public class Main {
 
     static int repeatedStringMatch(String a, String b) {
         StringBuilder temp = new StringBuilder(a);
