@@ -28,3 +28,10 @@ I am consistently practicing DSA to strengthen my problem-solving skills and pre
 - **Java** (Primary)
 
 ## 📁 Repository Structure
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Recursion/
+├── DynamicProgramming/
