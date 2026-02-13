@@ -35,3 +35,4 @@ I am consistently practicing DSA to strengthen my problem-solving skills and pre
 ├── Queue/
 ├── Recursion/
 ├── DynamicProgramming/
+├── Greedy/
