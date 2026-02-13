@@ -23,7 +23,7 @@ I am consistently practicing DSA to strengthen my problem-solving skills and pre
 - Trees
 - Graphs
 - Dynamic Programming
-- 
+- Greedy
 ## 🛠️ Language Used
 - **Java** (Primary)
 
