@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+public class Main {
     public List<Integer> partitionLabels(String s) {
         int n = s.length();
         int[] last = new int[26];
